@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New model", menuName = "Asset/Model")]
+[CreateAssetMenu(fileName = "New model", menuName = "Assets/Model")]
 
 public class Model : ScriptableObject {
     public string modelID;
